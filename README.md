@@ -23,7 +23,7 @@ This is a Back-End Tikitoko. This is built using Node JS and PostgreSQL.
 
 Installation
 
-- Clone this project with `git clone https://github.com/vickomaris/IntermediateBE_foodrecipe
+- Clone this project with `git clone https://github.com/rezafauzanakbar/tikitoko-api.git
 - Install package required with `npm install`
 
 - Setting .env
